@@ -1,0 +1,5 @@
+2023-08-06 05:22:32.997901 - Initialized conversion of CBT584
+2023-08-06 05:22:33.026821 - Received CBT.V505.FILE584.PDS from FILE584.XMI 
+2023-08-06 05:22:33.029285 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE584.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:22:33.030278 - Found @FILE584.txt (text/plain) in CBT.V505.FILE584.PDS, moved to PDS/@FILE584
+2023-08-06 05:22:33.031221 - Found AUTOINIT.jcl (text/plain) in CBT.V505.FILE584.PDS, moved to PDS/AUTOINIT
